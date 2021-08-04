@@ -1,18 +1,18 @@
 <!-- Tufts VUE 3.3.0 concept-map (Digital Tools for Education.vue) 2021-08-04 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Aug 04 21:32:55 IST 2021 by ADMIN on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Wed Aug 04 22:05:40 IST 2021 by ADMIN on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="Digital Tools for Education.vue" created="1628069282030"
     x="0.0" y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1628092975862" size="150917"
-        spec="C:\Users\ADMIN\Desktop\Digital Tools for Education.vue"
+    <resource referenceCreated="1628094940745" size="301173"
+        spec="E:\Jatin PhD Repository\Jatin-PhD-Repository\ET 606 Tools Lab\Digital Tools for Education.vue"
         type="1" xsi:type="URLResource">
         <title>Digital Tools for Education.vue</title>
-        <property key="File" value="C:\Users\ADMIN\Desktop\Digital Tools for Education.vue"/>
+        <property key="File" value="E:\Jatin PhD Repository\Jatin-PhD-Repository\ET 606 Tools Lab\Digital Tools for Education.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -2897,10 +2897,10 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/116ea101c0a800670192174ddcdd4a61</URIString>
     </layer>
-    <userZoom>0.5429446511129655</userZoom>
-    <userOrigin x="-384.43985" y="-199.27138"/>
+    <userZoom>0.47164862358292664</userZoom>
+    <userOrigin x="-365.21396" y="-197.93109"/>
     <presentationBackground>#202020</presentationBackground>
-    <PathwayList currentPathway="0" revealerIndex="-1">
+    <PathwayList currentPathway="-1" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1628069282030"
             x="0.0" y="0.0" width="1.4E-45" height="1.4E-45"
             strokeWidth="0.0" autoSized="false" currentIndex="0" open="true">
@@ -2950,6 +2950,6 @@
     </PathwayList>
     <date>2021-08-04</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\ADMIN\Desktop</saveLocation>
-    <saveFile>C:\Users\ADMIN\Desktop\Digital Tools for Education.vue</saveFile>
+    <saveLocation>E:\Jatin PhD Repository\Jatin-PhD-Repository\ET 606 Tools Lab</saveLocation>
+    <saveFile>E:\Jatin PhD Repository\Jatin-PhD-Repository\ET 606 Tools Lab\Digital Tools for Education.vue</saveFile>
 </LW-MAP>
